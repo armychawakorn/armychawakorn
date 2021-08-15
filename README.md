@@ -8,7 +8,7 @@
 - Adobe Premire Pro
 - Unity Engine
 - 3D blender
-- and i'm ready to learn new skills, i like when i learning new thing
+- and i'm ready to learn new skills, i glad when i learning new thing
 - 🎮and now i own the online game server developing with Unity and C# language,
 -    i've some skill of network management such making the server on Windows server, web server, Database on Windows server
 - 👀 I’m interested in C# Programing and mobile development application, Unity Engine, 3D Blender.
