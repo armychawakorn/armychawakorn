@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chawakorn Nuangpha, and living in thailand
+- 👋 Hi, my name is Chawakorn Nuangpha, and living in thailand
 - 👩‍💻 Skills: 
 - Computer technician repair and resolve the problem
 - Mobile application development with C# language
