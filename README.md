@@ -5,7 +5,7 @@
 - Database and data management with MYSQL, MariaDB
 - .NET, Mysql.Data, ASP.NET
 - Adobe Photoshop
-- Adobe Premire Pro
+- Adobe Premiere Pro
 - Unity Engine
 - 3D blender
 - HTML5, CSS3, Javascript, Boostrap 5 (Junior level)
