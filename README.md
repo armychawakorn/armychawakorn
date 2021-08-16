@@ -8,6 +8,7 @@
 - Adobe Premire Pro
 - Unity Engine
 - 3D blender
+- HTML5, CSS3, Javascript, Boostrap 5 (Junior level)
 - and i'm ready to learn new skills, i glad when i learning new thing
 - 🎮and now i own the online game server developing with Unity and C# language,
 -    i've some skill of network management such making the server on Windows server, web server, Database on Windows server
