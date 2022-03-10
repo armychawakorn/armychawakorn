@@ -15,4 +15,4 @@
 - 👀 I’m interested in C# Programing and mobile development application, Unity Engine, 3D Blender.
 - 🌱 I’m currently learning Interactive Design and Game Development.
 - 💞️ I’m looking to collaborate in Australia.
-- 📫 How to reach me Email: armychawakorn@gmail.com | Mobile: +66842979685 | Line: solid_soul.
+- 📫 How to reach me Email: Chawakorn.n@kkumail.com | Mobile: +66842979685 | Line: solid_soul.
