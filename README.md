@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=armychawakorn&count_private=true)
 - 👋 Hi, my name is Chawakorn Nuangpha, and living in Udonthani Thailand
 - 👩‍💻 Skills: 
 - Computer technician repair and resolve the problem
