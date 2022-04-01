@@ -16,4 +16,4 @@
 - 🌱 I’m currently learning Interactive Design and Game Development.
 - 💞️ I’m looking to collaborate in Australia.
 - 📫 How to reach me Email: Chawakorn.n@kkumail.com | Mobile: +66842979685 | Line: solid_soul.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=armychawakorn&count_private=true)
+https://github-readme-stats.vercel.app/api?username=armychawakorn&count_private=true
