@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 - 👋 Hi, my name is Chawakorn Nuangpha, and living in Udonthani Thailand
 - 👩‍💻 Skills: 
 - Computer technician repair and resolve the problem
@@ -16,4 +17,3 @@
 - 🌱 I’m currently learning Interactive Design and Game Development.
 - 💞️ I’m looking to collaborate in Australia.
 - 📫 How to reach me Email: Chawakorn.n@kkumail.com | Mobile: +66842979685 | Line: solid_soul.
-https://github-readme-stats.vercel.app/api?username=armychawakorn&count_private=true
