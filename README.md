@@ -1,7 +1,7 @@
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=armychawakorn&count_private=true)
   <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armychawakorn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armychawakorn&size_weight=0&count_weight=10)
 - 👋 Hi, my name is Chawakorn Nuangpha, and living in Udonthani Thailand
 - I am studying at Khon Kaen University(KKU). Faculty of Science and Engineering Computer Science And Information Technology
 - 👩‍💻 Skills: 
