@@ -2,11 +2,9 @@
   <br>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armychawakorn&size_weight=0&count_weight=3.5&layout=compact)
 # 👋 Hi, I'm Chawakorn Nuangpha
-
 I'm currently living in Udonthani, Thailand and studying at Khon Kaen University Bachelor of Science Program in Computer and Information Science.
 
 ## 🚀 Projects
-
 Here are some of the projects I've worked on and more in private repository only for my customer:
 
 ### Google-Form-Bot Python
@@ -41,43 +39,30 @@ Here are some of the projects I've worked on and more in private repository only
 - SQL
 - Python
 - C++
-
 #### Markup Languages
 - HTML
 - CSS
 - XML
 - JSON
-
 #### Databases (SQL)
 - MySQL
 - MariaDB
-
 #### NoSQL
 - MongoDB
-  
 #### IDE:
   - Visual Studio
   - Visual Studio Code
   - Eclipse
-    
 #### Tools
 - HeidiSQL
 - SQL Workbench
 - PhpMyAdmin
 - Postman
 - Unity
-- GitHub
-- XAMPP
-- Yarn
-- NPM
-- Pip
-- Git
-
 #### Web Servers and Load Balancers
 - Apache
 - Nginx
 - Tomcat
-
 #### DevOps and Cloud Services
 - Docker
 - Amazon Web Services (AWS)
@@ -85,43 +70,23 @@ Here are some of the projects I've worked on and more in private repository only
 - Microsoft Azure
 - Firebase
 - Cloudflare
-
 #### Frameworks
 - ExpressJS
 - ReactJS
 - NextJS
-- .NET Framework
-- .Net Standard
-- .NET 7
+- .NET
 - Servlet
 - Spring boot
-
-#### Cyber Security
-- Asymmetric Encryption
-- Symmetric Encryption
-- Argon2
-- Bcrypt
-
 #### Operating Systems
 - Linux
   - Ubuntu
   - CentOS
 - Windows
-  - Windows 10
-  - Windows 11
-  - Windows Server 2008
-  - Windows Server 2012
-  - Windows Server 2018
-  - Windows Server 2020
-
+  - Windows 10, 11
 #### Other Skills
-- Adobe Premiere Pro
-- Adobe Photoshop
-- Adobe Lightroom
+- Adobe Premiere Pro, Photoshop, Lightroom
 - Blender
-
 ## 📫 How to Reach Me
-
 - Email: [Chawakorn.n@kkumail.com](mailto:Chawakorn.n@kkumail.com)
 - Mobile: +66842979685
 - Line: [solid_soul](https://line.me/ti/p/solid_soul)
