@@ -1,21 +1,127 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=armychawakorn&count_private=true)
   <br>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armychawakorn&size_weight=0&count_weight=3.5&layout=compact)
-- 👋 Hi, my name is Chawakorn Nuangpha, and living in Udonthani Thailand
-- I am studying at Khon Kaen University(KKU). Faculty of Science and Engineering Computer Science And Information Technology
-- 👩‍💻 Skills: 
-- Computer technician repair and resolve the software problem
-- Mobile application development with C# language and kotlin&Java native language with Android Studio
-- Database and data management with MYSQL, MariaDB
-- .NET, Mysql.Data, ASP.NET
-- Adobe Photoshop, Adobe Premiere Pro
-- Unity Engine, 3D Blender
-- Devops Microsoft Azure, Google Cloud Platform, Nginx, CloudFlare
-- i'am Junior Fullstack Web Developer ReactJS, NextJS, NodeJS
-- and i'm ready to learn new skills, i glad when i learning new thing
-- 🎮and now i own the online game server developing with Unity and C# language,
--    i've some skill of network management such making the server on Windows server, web server, Database on Windows server
-- 👀 I’m interested in C# Programing and mobile development application, Unity Engine, 3D Blender.
-- 🌱 I’m currently learning Interactive Design and Game Development.
-- 💞️ I’m looking to collaborate in Australia.
-- 📫 How to reach me Email: Chawakorn.n@kkumail.com | Mobile: +66842979685 | Line: solid_soul.
+# 👋 Hi, I'm Chawakorn Nuangpha
+
+I'm currently living in Udonthani, Thailand and studying at Khon Kaen University (KKU) in the Faculty of Science and Engineering, majoring in Computer Science and Information Technology.
+
+## 🚀 Projects and miniproject
+
+Here are some of the projects I've worked on and more in private repository only for my customer:
+
+### Google-Form-Bot Python
+- This project is built in Python language for creating bots using the Selenium library to fill out Google Forms forms.
+- Options are randomly selected and some text in the form is automatically filled in.
+- GitHub Repository: [Google-Form-Bot](https://github.com/armychawakorn/Google-Form-Bot)
+
+### Rental Car Management C#
+- Rental Car Management program is a program designed to record customer car rental information by employees. This program uses C# and Winform .Net standard for development.
+- Can record customer information and car rental details and can be saved as a CSV file for efficient data management
+- GitHub Repository: [Rental Car Management](https://github.com/armychawakorn/Rental-Car-Management-Program)
+
+### Rent4U-Java (only basic functions)
+- Rent4U-Java website is a website developed in Java Servlet language that focuses on providing efficient and convenient vehicle rental services.
+- This website allows users to easily search and rent assets such as cars, bicycles through an online platform.
+- GitHub Repository: [Rent4U-Java](https://github.com/armychawakorn/Rent4U-Java)
+
+### All-Java-Project
+- This repository includes everything related to Java that I have studied both inside and outside the classroom.
+- GitHub Repository: [All-Java-Project](https://github.com/armychawakorn/All-Java-Project)
+
+## 👩‍💻 Skills
+
+### Programming Skills
+
+#### Programming Languages
+- C#
+- Java
+- JavaScript
+- TypeScript
+- PHP
+- SQL
+- Python
+- C++
+
+#### Markup Languages
+- HTML
+- CSS
+- XML
+- JSON
+
+#### Databases (SQL)
+- MySQL
+- MariaDB
+
+#### NoSQL
+- MongoDB
+  
+#### IDE:
+  - Visual Studio
+  - Visual Studio Code
+  - Eclipse
+    
+#### Tools
+- HeidiSQL
+- SQL Workbench
+- PhpMyAdmin
+- Postman
+- Unity
+- GitHub
+- XAMPP
+- Yarn
+- NPM
+- Pip
+- Git
+
+#### Web Servers and Load Balancers
+- Apache
+- Nginx
+- Tomcat
+
+#### DevOps and Cloud Services
+- Docker
+- Amazon Web Services (AWS)
+- Google Cloud Platform (GCP)
+- Microsoft Azure
+- Firebase
+- Cloudflare
+
+#### Frameworks
+- ExpressJS
+- ReactJS
+- NextJS
+- .NET Framework
+- .Net Standard
+- .NET 7
+- Servlet
+- Spring boot
+
+#### Cyber Security
+- Asymmetric Encryption
+- Symmetric Encryption
+- Argon2
+- Bcrypt
+
+#### Operating Systems
+- Linux
+  - Ubuntu
+  - CentOS
+- Windows
+  - Windows 10
+  - Windows 11
+  - Windows Server 2008
+  - Windows Server 2012
+  - Windows Server 2018
+  - Windows Server 2020
+
+#### Other Skills
+- Adobe Premiere Pro
+- Adobe Photoshop
+- Adobe Lightroom
+- Blender
+
+## 📫 How to Reach Me
+
+- Email: [Chawakorn.n@kkumail.com](mailto:Chawakorn.n@kkumail.com)
+- Mobile: +66842979685
+- Line: [solid_soul](https://line.me/ti/p/solid_soul)
