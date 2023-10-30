@@ -3,7 +3,7 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armychawakorn&size_weight=0&count_weight=3.5&layout=compact)
 # 👋 Hi, I'm Chawakorn Nuangpha
 
-I'm currently living in Udonthani, Thailand and studying at Khon Kaen University (KKU) in the Faculty of Science and Engineering, majoring in Computer Science and Information Technology.
+I'm currently living in Udonthani, Thailand and studying at Khon Kaen University Bachelor of Science Program in Computer and Information Science.
 
 ## 🚀 Projects and miniproject
 
