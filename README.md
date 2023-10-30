@@ -5,7 +5,7 @@
 
 I'm currently living in Udonthani, Thailand and studying at Khon Kaen University Bachelor of Science Program in Computer and Information Science.
 
-## 🚀 Projects and miniproject
+## 🚀 Projects
 
 Here are some of the projects I've worked on and more in private repository only for my customer:
 
