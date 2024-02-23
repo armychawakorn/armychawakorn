@@ -47,6 +47,7 @@ Here are some of the projects I've worked on and more in private repository only
 #### Databases (SQL)
 - MySQL
 - MariaDB
+- Microsoft SQL Server
 #### NoSQL
 - MongoDB
 #### IDE:
@@ -77,6 +78,7 @@ Here are some of the projects I've worked on and more in private repository only
 - .NET
 - Servlet
 - Spring boot
+- ASP .NET Core
 #### Operating Systems
 - Linux
   - Ubuntu
