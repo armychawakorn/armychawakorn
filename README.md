@@ -44,19 +44,20 @@ Here are some of the projects I've worked on and more in private repository only
 - CSS
 - XML
 - JSON
-#### Databases (SQL)
-- MySQL
-- MariaDB
-- Microsoft SQL Server
-#### NoSQL
-- MongoDB
+#### Databases
+- SQL
+  - MySQL
+  - MariaDB
+- NoSQL
+  - MongoDB
+  - LiteDB
+  - SQLite
 #### IDE:
   - Visual Studio
   - Visual Studio Code
   - Eclipse
 #### Tools
 - HeidiSQL
-- SQL Workbench
 - PhpMyAdmin
 - Postman
 - Unity
@@ -66,8 +67,6 @@ Here are some of the projects I've worked on and more in private repository only
 - Tomcat
 #### DevOps and Cloud Services
 - Docker
-- Amazon Web Services (AWS)
-- Google Cloud Platform (GCP)
 - Microsoft Azure
 - Firebase
 - Cloudflare
@@ -77,8 +76,7 @@ Here are some of the projects I've worked on and more in private repository only
 - NextJS
 - .NET
 - Servlet
-- Spring boot
-- ASP .NET Core
+- ASP .NET Core MVC
 #### Operating Systems
 - Linux
   - Ubuntu
