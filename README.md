@@ -1,8 +1,49 @@
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=armychawakorn&count_private=true)
-  <br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armychawakorn&layout=compact)
 # 👋 Hi, I'm Chawakorn Nuangpha
 I'm currently living in Udonthani, Thailand and studying at Khon Kaen University Bachelor of Science Program in Computer and Information Science.
+
+## 👩‍💻 Skills
+
+### Programming Skills
+| Programming Languages |       | Markup Languages  |        | IDE                 |       | Tools             |
+|------------------------|-------|-------------------|--------|---------------------|-------|-------------------|
+| C#                     |       | HTML              |        | Visual Studio       |       | HeidiSQL          |
+| Java                   |       | CSS               |        | Visual Studio Code  |       | PhpMyAdmin        |
+| JavaScript             |       | XML               |        | Eclipse             |       | Postman           |
+| TypeScript             |       | JSON              |        |                     |       | Unity             |
+
+| Databases (SQL)       |       | Databases (NoSQL) |
+|-----------------------|-------|-------------------|
+| MySQL                 |       | MongoDB           |
+| MariaDB               |       | LiteDB            |
+|                       |       | SQLite            |
+
+| Web Servers and Load Balancers |       | DevOps and Cloud Services |
+|--------------------------------|-------|---------------------------|
+| Apache                         |       | Docker                    |
+| Nginx                          |       | Microsoft Azure           |
+| Tomcat                         |       | Firebase                  |
+|                                |       | Cloudflare                |
+
+| Frameworks                     |       | Operating Systems |
+|--------------------------------|-------|-------------------|
+| ExpressJS                      |       | Ubuntu            |
+| ReactJS                        |       | CentOS            |
+| NextJS                         |       | Debian            |
+| .NET Framework                 |       | Windows 10, 11    |
+| ASP .NET Core MVC              |       |                   |
+| Servlet                        |       |                   |
+| Nodejs                         |       |                   |
+
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armychawakorn&layout=compact)
+
+#### Other Skills
+- Adobe Premiere Pro, Photoshop, Lightroom
+- Blender
+## 📫 How to Reach Me
+- Email: [Chawakorn.n@kkumail.com](mailto:Chawakorn.n@kkumail.com)
+- Mobile: +66842979685
+- Line: [solid_soul](https://line.me/ti/p/solid_soul)
 
 ## 🚀 Projects
 Here are some of the projects I've worked on and more in private repository only for my customer:
@@ -25,68 +66,3 @@ Here are some of the projects I've worked on and more in private repository only
 ### All-Java-Project
 - This repository includes everything related to Java that I have studied both inside and outside the classroom.
 - GitHub Repository: [All-Java-Project](https://github.com/armychawakorn/All-Java-Project)
-
-## 👩‍💻 Skills
-
-### Programming Skills
-
-#### Programming Languages
-- C#
-- Java
-- JavaScript
-- TypeScript
-- PHP
-- SQL
-- Python
-- C++
-#### Markup Languages
-- HTML
-- CSS
-- XML
-- JSON
-#### Databases
-- SQL
-  - MySQL
-  - MariaDB
-- NoSQL
-  - MongoDB
-  - LiteDB
-  - SQLite
-#### IDE:
-  - Visual Studio
-  - Visual Studio Code
-  - Eclipse
-#### Tools
-- HeidiSQL
-- PhpMyAdmin
-- Postman
-- Unity
-#### Web Servers and Load Balancers
-- Apache
-- Nginx
-- Tomcat
-#### DevOps and Cloud Services
-- Docker
-- Microsoft Azure
-- Firebase
-- Cloudflare
-#### Frameworks
-- ExpressJS
-- ReactJS
-- NextJS
-- .NET
-- Servlet
-- ASP .NET Core MVC
-#### Operating Systems
-- Linux
-  - Ubuntu
-  - CentOS
-- Windows
-  - Windows 10, 11
-#### Other Skills
-- Adobe Premiere Pro, Photoshop, Lightroom
-- Blender
-## 📫 How to Reach Me
-- Email: [Chawakorn.n@kkumail.com](mailto:Chawakorn.n@kkumail.com)
-- Mobile: +66842979685
-- Line: [solid_soul](https://line.me/ti/p/solid_soul)
