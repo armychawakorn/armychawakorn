@@ -20,9 +20,14 @@ I'm currently living in Udonthani, Thailand and studying at Khon Kaen University
 | Web Servers and Load Balancers |       | DevOps and Cloud Services |
 |--------------------------------|-------|---------------------------|
 | Apache                         |       | Docker                    |
-| Nginx                          |       | Microsoft Azure           |
-| Tomcat                         |       | Firebase                  |
+| Nginx                          |       | Kubernetes                |
+| Tomcat                         |       | Cloudflare                |
+|                                |       | Microsoft Azure           |
+|                                |       | AWS (EC2, Lambda, S3)     |
+|                                |       | Google Cloud Platform     |
+|                                |       | Firebase                  |
 |                                |       | Cloudflare                |
+
 
 | Frameworks                     |       | Operating Systems |
 |--------------------------------|-------|-------------------|
@@ -31,7 +36,6 @@ I'm currently living in Udonthani, Thailand and studying at Khon Kaen University
 | NextJS                         |       | Debian            |
 | .NET Framework                 |       | Windows 10, 11    |
 | ASP .NET Core MVC              |       |                   |
-| Servlet                        |       |                   |
 | Nodejs                         |       |                   |
 
 <!-- Top Languages -->
