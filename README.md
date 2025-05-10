@@ -15,7 +15,7 @@ I'm currently living in Udonthani, Thailand and studying at Khon Kaen University
 |-----------------------|-------|-------------------|
 | MySQL                 |       | MongoDB           |
 | MariaDB               |       | LiteDB            |
-|                       |       | SQLite            |
+| PostgreSQL            |       | SQLite            |
 
 | Web Servers and Load Balancers |       | DevOps and Cloud Services |
 |--------------------------------|-------|---------------------------|
@@ -24,7 +24,7 @@ I'm currently living in Udonthani, Thailand and studying at Khon Kaen University
 | Tomcat                         |       | Cloudflare                |
 |                                |       | Microsoft Azure           |
 |                                |       | AWS (EC2, Lambda, S3)     |
-|                                |       | GCP (CE, K8S, SQL, VPC Net|
+|                                |       | GCP (CE, K8S, SQL, VPC Network)|
 |                                |       | Firebase                  |
 |                                |       | Cloudflare                |
 
