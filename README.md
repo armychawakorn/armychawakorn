@@ -24,7 +24,7 @@ I'm currently living in Udonthani, Thailand and studying at Khon Kaen University
 | Tomcat                         |       | Cloudflare                |
 |                                |       | Microsoft Azure           |
 |                                |       | AWS (EC2, Lambda, S3)     |
-|                                |       | Google Cloud Platform     |
+|                                |       | GCP (CE, K8S, SQL, VPC Net|
 |                                |       | Firebase                  |
 |                                |       | Cloudflare                |
 
