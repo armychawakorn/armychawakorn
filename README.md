@@ -10,6 +10,8 @@ I'm currently living in Udonthani, Thailand and studying at Khon Kaen University
 | Java                   |       | CSS               |        | Visual Studio Code  |       | PhpMyAdmin        |
 | JavaScript             |       | XML               |        | Eclipse             |       | Postman           |
 | TypeScript             |       | JSON              |        |                     |       | Unity             |
+|                        |       |                   |        |                     |       | Jira              |
+|                        |       |                   |        |                     |       | Github & Gitlab   |
 
 | Databases (SQL)       |       | Databases (NoSQL) |
 |-----------------------|-------|-------------------|
@@ -26,7 +28,7 @@ I'm currently living in Udonthani, Thailand and studying at Khon Kaen University
 |                                |       | AWS (EC2, Lambda, S3)     |
 |                                |       | GCP (CE, K8S, SQL, VPC Network)|
 |                                |       | Firebase                  |
-|                                |       | Cloudflare                |
+|                                |       | Supabase                  |
 
 
 | Frameworks                     |       | Operating Systems |
