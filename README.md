@@ -4,7 +4,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Chawakorn%20Nuangpha&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Freelance%20Software%20Developer%20and%20Fullstack%20Developer%20%7C%20Backend%20Specialist%20%7C%20Tech%20Enthusiast&descAlignY=50&descSize=18)
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=1500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=150&lines=Assalamualaikum+Warahmatullahi+Wabarakatuh;I'm+Chawakorn;Computer+Science+Student;Backend+Developer+Intern" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=1500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=150&lines=Hi;I'm+Chawakorn;Computer+Science+Student;Backend+Developer+Intern" alt="Typing Animation" />
 
  
 <!-- Location & University -->
