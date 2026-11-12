@@ -1,5 +1,5 @@
 # Chawakorn Nueangpha
-**Fullstack Developer** | Khon Kaen, Thailand 🇹🇭
+**.NET Fullstack Developer** | Khon Kaen, Thailand 🇹🇭
 
 ---
 
@@ -7,9 +7,12 @@
 
 **DigiX Technology** | Khon Kaen, Thailand
 *.NET C# Fullstack Developer* (Apr 2026 – Present)
-- Developing and maintaining web applications and backend systems using C# and ASP.NET Razor Pages.
-- Managing database operations utilizing SQL Server and Azure SQL Databases.
-- Collaborating closely with the technical lead and engineering team to deliver quality software solutions.
+- Build the backend of **TeamLink**, a white-label HR and employee-engagement app, and its customer editions **One Retail** and **SMED Smart Hub**.
+- Develop the core API (.NET 8, EF Core, SQL Server), Node.js services and Angular back-office web apps.
+- Deliver releases to Azure (Container Registry, App Service, Key Vault) for each customer.
+- Fix penetration-test findings across authentication, token handling, CORS and secret exposure.
+- Integrate Microsoft Entra ID user sync (Microsoft Graph) and OAuth 2.0 / PKCE partner sign-in.
+- Run load tests and Playwright end-to-end tests on customer environments before go-live.
 
 **IQURI Tech (PTL Group)** | Vientiane, Laos
 *DevOps & SDX Intern* (Dec 2025 – Mar 2026)
@@ -27,18 +30,17 @@
 
 ## 🛠️ Tech Stack & Tools
 
-- **Languages & Frameworks:** C#, ASP.NET (Razor Pages), Node.js, Python 3, TypeScript
-- **Databases:** SQL Server, Azure SQL, PostgreSQL, MySQL
-- **DevOps & Infrastructure:** Docker, Kubernetes, Jenkins, DigitalOcean
-- **Monitoring & Observability:** Prometheus, Grafana, Loki, Alloy
-- **AI & Automation:** GitHub Copilot, Vertex AI, ComfyUI, n8n
+- **Languages & Frameworks:** C#, .NET 8, ASP.NET Core, Entity Framework Core, Angular, Node.js, TypeScript
+- **Databases:** SQL Server, Azure SQL
+- **Cloud & DevOps:** Azure (App Service, Container Registry, Key Vault, Entra ID), Docker, GitHub Actions
+- **Testing:** Playwright
 
 ---
 
 ## 🎓 Education
 
 **Khon Kaen University**
-*Bachelor of Science in Computer Science* 
+*Bachelor of Science in Computer Science*
 - Graduated with GPA: 3.42
 
 ---
